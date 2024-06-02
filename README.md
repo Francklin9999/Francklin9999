@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am a computer engineering student at Polytechnique Montreal University, deeply passionate about coding, machine learning, and developing innovative web applications.
+French/English
 
 # 🚀 What I'm Up To:
 📈 Developing a stock market prediction web application using Django and ReactJS, leveraging machine learning techniques.
