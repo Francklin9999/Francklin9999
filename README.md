@@ -10,7 +10,7 @@ Bilingual: French/English
 📈 Developping web application for a startup.
 
 ## 🌐 Connect with me here:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fonganf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fongangf)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@franckf6692) 
 
 # 💻 Tech Stack:
