@@ -6,7 +6,7 @@ I am a computer engineering student at University of Montreal(Udem) - Polytechni
 
 Bilingual: French/English
 
-Checkout my work here : https://portfolio-ashy-ten-14.vercel.app/
+Checkout my work here : https://www.franckfongang.io/
 
 # 🚀 What I'm Up To:
 📈 Developing a web application for a startup.
