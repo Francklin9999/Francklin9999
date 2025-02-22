@@ -9,7 +9,7 @@ Bilingual: French/English
 Checkout my work here : https://www.franckfongang.io/
 
 # 🚀 What I'm Up To:
-📈 Learning Ruby to discover some gems.
+📈 Fine-tuning my knowledge of ML.
 
 ## 🌐 Connect with me here:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fongangf)
