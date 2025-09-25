@@ -6,7 +6,7 @@ I am a computer engineering student at University of Montreal(Udem) - Polytechni
 
 Bilingual: French/English
 
-Checkout my work here : https://www.franckfongang.io/
+Checkout my work here : https://www.franckfongang.com/
 
 # 🚀 What I'm Up To:
 📈 Fine-tuning my knowledge of ML.
